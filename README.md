@@ -11,6 +11,14 @@
 
 ---
 
+🌐 **Live Demo:** [https://psp-portfolio-opal.vercel.app/](https://psp-portfolio-opal.vercel.app/)
+
+### 🚀 Deployment
+
+The portfolio is deployed on **Vercel** and is available through the live demo above.
+
+---
+
 ## 🌐 Overview & Engineering Philosophy
 
 This portfolio transforms standard developer showcases into an immersive, technically credible, and recruiter-friendly experience. Designed from the ground up to reflect actual software engineering rigor rather than generic student templates:
