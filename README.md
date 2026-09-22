@@ -163,8 +163,7 @@ The project is configured for one-click deployment on **Vercel** or **Netlify**:
 ## 👤 Author & Contact
 
 **P. S. Prashanth**
-- **Degree**: Integrated M.Tech in Software Engineering, VIT-AP University (2022–2027)
-- **CGPA**: 8.61 / 10
+
 - **Email**: [p.s.prashanth25@gmail.com](mailto:p.s.prashanth25@gmail.com)
 - **LinkedIn**: [linkedin.com/in/p-s-prashanth-2988a7387](https://www.linkedin.com/in/p-s-prashanth-2988a7387/)
 - **GitHub**: [github.com/psprashanth25](https://github.com/psprashanth25)
